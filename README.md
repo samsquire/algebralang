@@ -16,6 +16,17 @@ It's important to think of each function as being executed in concurrently even 
 
 Many algorithms rely on dividing information in half, so algrabelang defines a division operator which works on lists.
 
+# binary search
+
+```
+recursive( initialValue(node1.children, s)
+
+÷(point=middle=m,sides=s)
+value(m) == input = output
+if value(m) > searchValue then s=s[0] else s=s[1]
+)
+```
+
 # a star
 
 ```
