@@ -22,7 +22,7 @@ Many algorithms rely on dividing information in half, so algrabelang defines a d
 recursive( initialValue(node1.children, s)
 
 ÷(point=middle=m,sides=s)
-value(m) == input = output
+value(m) == input = output = m
 if value(m) > searchValue then s=s[0] else s=s[1]
 )
 ```
