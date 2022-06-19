@@ -107,3 +107,9 @@ output = l.t }
 else deepest t.children.append(node)
 )
 ```
+
+# Multivariate types.
+
+By default, each function can return multiple types and they are associated into a record.
+
+The unit is one item and other processes can pass along this context.
